@@ -1,6 +1,0 @@
-1. 2주차 키워드
-    - 협업하기 위한 단계는 무엇이 있을까?
-    - issue
-    - branch
-    - merge
-    - merge conflict
