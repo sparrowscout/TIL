@@ -16,3 +16,6 @@
   
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/>
 </p>
+
+# Velog
+  <a href="https://velog.io/@sparrowscout"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff"/></a>
