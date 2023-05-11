@@ -1,8 +1,0 @@
-# Media Source Extension (MSE)
->With Media Source Extensions (MSE), this is changing. <br/>
->MSE allows us to replace the usual single progressive src URI fed to media elements with a reference to a MediaSource object, <br/>
->which is a container for information like the ready state of the media for being played, <br/>
->and references to multiple SourceBuffer objects that represent the different chunks of media that make up the entire stream. <br/>
-
->MSE gives us finer-grained control over how much and how often content is fetched, and some control over memory usage details, such as when buffers are evicted. <br/>
->It lays the groundwork for adaptive bitrate streaming clients (such as those using DASH or HLS) to be built on its extensible API.<br/>
